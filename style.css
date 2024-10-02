@@ -1,0 +1,92 @@
+main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.cima{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 76px;
+    margin-top: 85px;
+
+}
+
+.texto{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 566px;
+}
+
+.botao{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.titulo{
+    margin-bottom: 41px;
+}
+
+.esferas{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-left: 35px;
+    gap: 14px;
+}
+
+.azul{
+    width: 148px;
+}
+
+.amarelo{
+    width: 148px;
+}
+
+.rosa{
+    width: 148px;
+}
+
+.baixo{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 51px;
+}
+  
+  .lato-regular-p {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    color: #333333;
+    margin: 0%;
+  }
+  .lato-regular-botao {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    color: white;
+    background-color: #333333;
+    border: none;
+    border-radius: 33px;
+    width: 222px;
+    height: 66px;
+  }
+  
+  .lato-bold-h1 {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 64px;
+    color: #333333;
+    margin: 0px;
+  }
+  
+  .ftdoce{
+    border: solid black 1px;
+    border-radius: 43px;
+  }
